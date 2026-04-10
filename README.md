@@ -19,4 +19,4 @@ pip install -r requirements.txt
 python app.py
 
 ## Author
-Sunil Thakre
+Sunil Raykhere

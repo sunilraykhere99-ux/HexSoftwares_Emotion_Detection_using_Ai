@@ -20,3 +20,5 @@ python app.py
 
 ## Author
 Sunil Raykhere
+## Demo Video
+[Watch Demo](./demo.mp4)
